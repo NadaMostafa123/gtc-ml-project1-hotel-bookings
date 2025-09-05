@@ -40,5 +40,5 @@ The goal is to **clean and preprocess** the raw `hotel_bookings.csv` dataset so 
 
 ---
  
-## After cleaning, the dataset is **ready for ML modeling**.  
+## After cleaning & Preprocessing , the dataset is **ready for ML modeling**.  
  
