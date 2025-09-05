@@ -31,7 +31,7 @@ The goal is to **clean and preprocess** the raw `hotel_bookings.csv` dataset so 
   - `is_family` → Yes/No flag depending on children/babies.  
 
 ### 4️⃣ Encoding  
--One-Hot Encoding applied to low-cardinality categorical columns (`meal`, `market_segment`, `deposit_type`, `customer_type`, `reserved_room_type`, `assigned_room_type`).
+- One-Hot Encoding applied to low-cardinality categorical columns (`meal`, `market_segment`, `deposit_type`, `customer_type`, `reserved_room_type`, `assigned_room_type`).
 - Frequency Encoding used for **high-cardinality column** (`country`).  
 
 ### 5️⃣ Final Preparation  
