@@ -39,10 +39,6 @@ The goal is to **clean and preprocess** the raw `hotel_bookings.csv` dataset so 
 - Split dataset into **train (80%)** and **test (20%)** using `random_state=42`.  
 
 ---
-
-## ✅ Key Findings  
-- Large number of duplicates (31k+).  
-- Outliers in `adr` and `lead_time`.  
-- Missing values mainly in `company`, `agent`, `country`, and `children`.  
+ 
 - After cleaning, the dataset is **ready for ML modeling**.  
  
